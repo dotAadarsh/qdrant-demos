@@ -19,3 +19,5 @@ Our overall plan is to:
 3. use qdrant to index the embeddings
 4. use qdrant to search for the most similar embeddings based on a users input
 5. Generate a response based on the most similar embedding
+
+This project is from the [lablab-ai-Qdrant Example](https://github.com/lablab-ai/qdrant-q-and-a-on-pdf)
