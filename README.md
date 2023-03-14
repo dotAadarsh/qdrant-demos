@@ -20,4 +20,7 @@ Our overall plan is to:
 4. use qdrant to search for the most similar embeddings based on a users input
 5. Generate a response based on the most similar embedding
 
-This project is from the [lablab-ai-Qdrant Example](https://github.com/lablab-ai/qdrant-q-and-a-on-pdf)
+## Resource
+
+- This project is from the [lablab-ai-Qdrant Example](https://github.com/lablab-ai/qdrant-q-and-a-on-pdf)
+- [Article - Question and Answer on your data with Qdrant](https://lablab.ai/t/question-and-answer-on-your-data-with-qdrant)
