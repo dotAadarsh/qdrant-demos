@@ -1,5 +1,8 @@
 # Projects using Qdrant
 
+- [Qdrant.tech](https://qdrant.tech/)
+- [qdrant documentation](https://qdrant.tech/documentation/)
+
 ## Question and Answer on your data with qdrant
 
 This project is a Question and Answer Chat Bot with knowledge from your own PDF files. We will use qdrant, a 
@@ -32,3 +35,11 @@ Our overall plan is to:
 
 ### Resource
 - [Neural Search Tutorial](https://qdrant.tech/articles/neural-search-tutorial/)
+
+## Qdrant Tutorial: Text Similarity Search
+
+This project utilizes Qdrant Vector Database to store Embeddings from Cohere's model and search using cosine similarity.
+
+Resource
+
+- [Qdrant Tutorial: Text Similarity Search](https://lablab.ai/t/qdrant-cohere-tutorial) 
