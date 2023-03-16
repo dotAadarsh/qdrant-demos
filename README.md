@@ -1,10 +1,12 @@
-# Question and Answer on your data with qdrant
+# Projects using Qdrant
+
+## Question and Answer on your data with qdrant
 
 This project is a Question and Answer Chat Bot with knowledge from your own PDF files. We will use qdrant, a 
 state-of-the-art open-source vector search engine, and OpenAI ada002 embeddings model to build out this console based 
 application.
 
-## What is qdrant?
+### What is qdrant?
 
 Qdrant (read: quadrant ) is a vector similarity search engine. It provides a production-ready service with a 
 convenient API to store, search, and manage points - vectors with an additional payload. Qdrant is tailored to 
@@ -20,7 +22,13 @@ Our overall plan is to:
 4. use qdrant to search for the most similar embeddings based on a users input
 5. Generate a response based on the most similar embedding
 
-## Resource
+### Resource
 
 - This project is from the [lablab-ai-Qdrant Example](https://github.com/lablab-ai/qdrant-q-and-a-on-pdf)
 - [Article - Question and Answer on your data with Qdrant](https://lablab.ai/t/question-and-answer-on-your-data-with-qdrant)
+
+## How to build a neural search service with BERT + Qdrant + FastAPI
+
+
+### Resource
+- [Neural Search Tutorial](https://qdrant.tech/articles/neural-search-tutorial/)
